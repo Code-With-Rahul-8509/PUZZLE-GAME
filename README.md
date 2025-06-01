@@ -1,1 +1,2 @@
 # PUZZLE-GAME
+This project is a simple and interactive puzzle game developed using HTML, CSS, and JavaScript. The game challenges users to rearrange shuffled tiles to complete an image or a number sequence. It features a clean user interface, smooth animations, and responsive design for various devices. JavaScript handles the game logic, user interactions, and win detection, while HTML and CSS are used to structure and style the game layout. This project demonstrates fundamental front-end web development skills and logical thinking.

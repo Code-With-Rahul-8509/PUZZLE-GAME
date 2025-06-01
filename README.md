@@ -1,2 +1,7 @@
-# PUZZLE-GAME
-This project is a simple and interactive puzzle game developed using HTML, CSS, and JavaScript. The game challenges users to rearrange shuffled tiles to complete an image or a number sequence. It features a clean user interface, smooth animations, and responsive design for various devices. JavaScript handles the game logic, user interactions, and win detection, while HTML and CSS are used to structure and style the game layout. This project demonstrates fundamental front-end web development skills and logical thinking.
+# [Puzzle-Game](https://youtu.be/S6GNtMGNcUE)
+- Coding Tutorial: https://youtu.be/S6GNtMGNcUE
+- Demo: https://imkennyyip.github.io/Puzzle-Game/
+
+In this tutorial, you will learn how to create a drag and drop Avengers themed puzzle game! You will learn how to shuffle the puzzle pieces, write click handlers to drag and drop puzzle pieces onto the board, and keep track of the number of turns the player has taken to solve the puzzle.
+
+![puzzle-preview](https://user-images.githubusercontent.com/78777681/163045424-30151af3-03e3-4290-90fd-feb8885f2311.png)
